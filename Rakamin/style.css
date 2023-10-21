@@ -1,0 +1,20 @@
+.Home {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding: 30px;
+}
+.Won {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.footer {
+    padding-top: 30px;
+}
+
+@media (max-width: 576px) {
+    .container{
+        background-color: darkgreen;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+}
